@@ -10,7 +10,8 @@
         "production": "mix --production"
     },
     "devDependencies": {
-        "axios": "^0.21.1",
+        "@vue/cli-plugin-router": "^4.5.13",
+        "axios": "^0.21.3",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
         "postcss": "^8.1.14"
@@ -19,6 +20,6 @@
         "@websanova/vue-auth": "^4.1.4",
         "es6-promise": "^4.2.8",
         "vue-axios": "^3.2.5",
-        "vue-router": "^3.5.2"
+        "vue-router": "^4.0.11"
     }
 }
